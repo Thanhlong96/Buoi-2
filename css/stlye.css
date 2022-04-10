@@ -1,0 +1,80 @@
+.background{
+    background:#0B0D17;
+    padding: 165px;
+    
+}
+.icon{
+    max-width: 34px;
+    padding-bottom: 56px;
+}
+
+.title{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 12px;
+}
+
+.body{
+    color: #18191F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    padding-bottom: 40px;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 26px;
+    
+}
+
+a{ 
+    color: inherit;
+    color:#8C30F5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 24px;
+    display: inline-flex;
+    column-gap: 8px;
+}
+
+.card{
+    background: white;
+    padding: 32px;
+    border-radius: 8px;
+    max-width: 350px;
+    max-height: 346px;
+
+}
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: center;
+    font-size: 84px;
+    font-weight: 800;
+    line-height: 64px;
+    text-align: center;
+}
+
+td{
+    padding: 15px;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+    color: white;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+    border: 1px white solid;
+    padding: 12px 20px 12px 20px;
+    border-radius: 6px;
+    display: inline-flex;
+    column-gap: 16px;   
+}
